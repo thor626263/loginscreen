@@ -1,6 +1,6 @@
 import React from "react";
-import LeftSide from "./LeftSide";
-import RightSide from "./RightSide";
+import LeftSide from "./components/LeftSide";
+import RightSide from "./components/RightSide";
 
 function App() {
   return (

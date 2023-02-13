@@ -1,6 +1,6 @@
 import React from "react";
-import plantimg from "./Images/plant.png";
-import './App.css';
+import plantimg from "../Images/plant.png";
+import '../App.css';
 
 
 

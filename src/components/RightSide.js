@@ -1,6 +1,6 @@
 import React from "react";
-import logoimg from "./Images/logo.png";
-import './App.css';
+import logoimg from "../Images/logo.png";
+import '../App.css';
 import Forms from "./Form";
 
 function RightSide(){
